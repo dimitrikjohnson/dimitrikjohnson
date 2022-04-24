@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/DuckBoss/DeltaGMU/PCA-Employees">
+<a href="https://github.com/DeltaGMU/PCA-Employees">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeltaGMU&repo=PCA-Employees&theme=tokyonight" />
 </a>
