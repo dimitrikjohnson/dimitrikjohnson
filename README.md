@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>⚡ My Tech Experience </th>
+    <th style="width: auto;">⚡ My Tech Experience </th>
     <th></th>
   </tr>
   <tr>
