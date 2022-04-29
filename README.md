@@ -1,8 +1,8 @@
 <h2 align="center"> Hi, I'm Dimitrik 👋 </h2>
 
-<table style="padding: 6px 15px;">
+<table>
   <tr>
-    <th>⚡ My Tech Experience </th>
+    <th>My Tech Experience </th>
     <th></th>
   </tr>
   <tr>
