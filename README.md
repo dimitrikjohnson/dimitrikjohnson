@@ -1,5 +1,5 @@
 <h2 align="center"> Hi, I'm Dimitrik 👋 </h2>
-
+<p align="center">📫 How to reach me: <a href="mailto:dimitrik.johnson@gmail.com">dimitrik.johnson@gmail.com</a>
 <table>
   <tr>
     <th>⚡ My Tech Experience </th>
