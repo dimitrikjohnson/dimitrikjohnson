@@ -2,7 +2,7 @@
 <p align="center">📫 How to reach me: <a href="mailto:dimitrik.johnson@gmail.com">dimitrik.johnson@gmail.com</a>
 <table>
   <tr>
-    <th>⚡ My Tech Experience </th>
+    <th>⚡ Tech Experience </th>
     <th></th>
   </tr>
   <tr>
