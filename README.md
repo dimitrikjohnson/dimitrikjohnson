@@ -33,6 +33,7 @@
   <tr>
     <td>Other Technologies</td>
     <td>
+      <img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white">
       <img src="https://img.shields.io/badge/-VS_Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=ffffff">
       <img src="https://img.shields.io/badge/-Postman-%23FF6F00.svg?&style=for-the-badge&logo=postman&logoColor=ffffff">
     </td>
